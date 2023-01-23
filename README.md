@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImmaculatePasta
 - 👀 I’m interested in documentation for REST APs in Open API Specification
-- 🌱 I’m currently learning the OpenAPI specification and integrating it with Stoplight, Swagger and Redoc
-- 💞️ I’m looking to collaborate/contribute to projects that need help with REST API documentation
+- 🌱 I focus on the OpenAPI Specification and integrating it with Redoc and GitBook
+- 💞️ I’m looking tc ollaborate/contribute to projects that need help with REST API documentation
 - 📫 Reach me on contact@andrewgillick.com Thanks! 
 
 <!---
